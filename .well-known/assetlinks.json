@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.viyas.finance",
+      "sha256_cert_fingerprints": [
+        "E8:31:C5:27:C5:67:5C:59:38:42:6E:6C:B8:C3:05:73:29:A7:B4:47:B1:78:BA:C0:E5:EA:CE:A2:09:58:67:B8"
+      ]
+    }
+  }
+]
